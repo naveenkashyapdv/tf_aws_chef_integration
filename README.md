@@ -1,5 +1,3 @@
-# autoshow
-
 ## terrafrom code integration with chef and aws
 
 # Prerequisites:
