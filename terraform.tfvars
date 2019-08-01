@@ -1,0 +1,14 @@
+chef_server_url="https://api.chef.io/organizations/your_org" # Chef master hostname or ip
+chef_server_user_name="" #Chef master username
+chef_server_user_key="~/.chef/your.pem" #Name and Path of key
+chef_environment="_default" #chef_env
+chef_runlist=["newrelic-java", "demo-jenkins"] # Chef Runlist, if more than one , please use array.
+ssh_key_file="~/devops/demo.pem"
+chef_version="13"
+name="demo-instance"
+environment="demo"
+ssh_key_name="demo"
+ssh_key_file="~/devops/demo.pem"
+region="us-west-2"
+vpc_cidr="10.0.0.0/16"
+ami_id="ami-02deb4589e0f0d95e"
