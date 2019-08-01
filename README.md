@@ -1,7 +1,6 @@
 # autoshow
 
-## This is the landing zone for autoshow.
-
+## terrafrom code integration with chef and aws
 
 # Prerequisites:
 
